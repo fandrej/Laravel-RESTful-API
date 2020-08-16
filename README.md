@@ -1,6 +1,8 @@
 ## Laravel RESTful API
 
-[Техническое задание](https://docs.google.com/document/d/12pf7fx3tTC9Vlk4-h0vWRxQHAEgWJBzsUa_IH6LcC4Y/edit).
+[Техническое задание](https://docs.google.com/document/d/12pf7fx3tTC9Vlk4-h0vWRxQHAEgWJBzsUa_IH6LcC4Y/edit)<br/>
+[Результат: описание API с примерами](api.md)
+
 
 ### Стек
 - PHP 7.4
