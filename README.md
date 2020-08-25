@@ -32,7 +32,7 @@ or use `php artisan migrate`
 
 ### Controllers
 (app/Http/Controllers/Api/)
-- DepController.php  
+- [DepController.php](app/Http/Controllers/Api/DepController.php)  
 - TownController.php  
 - UserController.php
 
