@@ -10,7 +10,7 @@
 - Apache 2.4
 
 ### Database
-database/pronkers.sql
+[database/pronkers.sql](database/pronkers.sql)
 
 #### Create database
 sudo -u postgres psql
@@ -24,17 +24,17 @@ or use `php artisan migrate`
 
 ### Models
 (app/)
-- Deptown.php  
-- Firm.php
-- User.php
-- Dep.php
-- Town.php
+- [Deptown.php](app/Deptown.php)  
+- [Firm.php](app/Firm.php)
+- [User.php](app/User.php)
+- [Dep.php](app/Dep.php)
+- [Town.php](app/Town.php)
 
 ### Controllers
 (app/Http/Controllers/Api/)
 - [DepController.php](app/Http/Controllers/Api/DepController.php)  
-- TownController.php  
-- UserController.php
+- [TownController.php](app/Http/Controllers/Api/TownController.php)  
+- [UserController.php](app/Http/Controllers/Api/UserController.php)
 
 ### Laravel modified files
 - .env
